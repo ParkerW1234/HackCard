@@ -7,7 +7,8 @@ hosted at parkerw.online
 # PCB
 <img width="409" height="329" alt="Screenshot 2026-01-03 at 4 59 54 PM" src="https://github.com/user-attachments/assets/ab04ad07-fd15-4e70-88fb-5be44dc9a662" />
 
-<img width="356" height="210" alt="Screenshot 2025-12-28 at 9 00 01 PM" src="https://github.com/user-attachments/assets/4d2612f8-690e-47d4-9a10-f47a398960bb" />
+<img width="672" height="434" alt="Screenshot 2026-01-04 at 5 29 49 PM" src="https://github.com/user-attachments/assets/1a1db28d-a787-471c-96c4-65161d39aa09" />
+
 
 # PCB 3d Model
 <img width="650" height="360" alt="Screenshot 2025-12-28 at 9 00 15 PM" src="https://github.com/user-attachments/assets/28f49f98-f445-4700-9c19-886ea790d339" />
