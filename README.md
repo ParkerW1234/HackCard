@@ -11,7 +11,8 @@ hosted at parkerw.online
 
 
 # PCB 3d Model
-<img width="650" height="360" alt="Screenshot 2025-12-28 at 9 00 15 PM" src="https://github.com/user-attachments/assets/28f49f98-f445-4700-9c19-886ea790d339" />
+<img width="641" height="430" alt="Screenshot 2026-01-04 at 4 34 30 PM" src="https://github.com/user-attachments/assets/15c63e71-2b6e-479c-a605-10dec91e2839" />
+
 
 # PCB Wallet
 <img width="753" height="361" alt="Screenshot 2025-12-30 at 4 09 01 PM" src="https://github.com/user-attachments/assets/d8067e8d-950a-4f44-af3c-503ae5dd42ed" />
