@@ -11,7 +11,7 @@ hosted at parkerw.online
 
 
 # PCB 3d Model
-<img width="641" height="430" alt="Screenshot 2026-01-04 at 4 34 30 PM" src="https://github.com/user-attachments/assets/15c63e71-2b6e-479c-a605-10dec91e2839" />
+<img width="746" height="413" alt="Screenshot 2026-01-04 at 5 39 05 PM" src="https://github.com/user-attachments/assets/50ea9ce0-31db-4a98-8b9f-5a792d8a5de7" />
 
 
 # PCB Wallet
