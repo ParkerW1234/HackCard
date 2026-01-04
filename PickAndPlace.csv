@@ -1,6 +1,0 @@
-Designator,Footprint,Mid X,Mid Y,Ref X,Ref Y,Pad X,Pad Y,Layer,Rotation,Comment
-"C1","C0603","52.32mm","-25.15mm","52.32mm","-25.15mm","52.32mm","-24.45mm","T","270","220nF"
-"LED1","LED0805-R-RD","50.93mm","-19.69mm","50.93mm","-19.69mm","49.88mm","-19.69mm","T","180","17-21SUYC/TR8"
-"R1","R0603","49.53mm","-25.27mm","49.53mm","-25.27mm","49.53mm","-24.52mm","T","270","47Ω"
-"U1","XQFN-8_L1.6-W1.6-P0.50-BL_NT3H2111W0FHKH","56.13mm","-25.27mm","56.13mm","-25.27mm","56.63mm","-24.67mm","T","270","NT3H2111W0FHKH"
-"U2","25X48MM_NFC_ANTENNA","63.63mm","-25.15mm","75.06mm","-25.15mm","61.72mm","-25.78mm","T","90","Antenna"
